@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "cfdb7675d0a8f04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00aaadc3514eb474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9209e398a18b5238",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "思维导图.md"
+              },
+              "icon": "blocks",
+              "title": "思维导图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a676029bf814ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "f57b5a470cbe76da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1345d19faec6c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fcf1504619eb0019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5abe23e597cc2fe6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3729b048210958d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "008481884118af7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "205d6b3ba089267e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "978ea3f39fa9d56a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "dfffe450bf412082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b575084c6633a1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "9209e398a18b5238",
+  "lastOpenFiles": [
+    "思维导图.md",
+    "图/思维导图.md",
+    "矢量分析与场论.md",
+    "图/第一章/直角坐标与圆柱坐标关系.jpg",
+    "图/第一章/直角坐标与球面坐标关系.jpg",
+    "图/第一章/直角坐标下的梯度散度旋度拉普拉斯.jpg",
+    "图/第一章/圆柱坐标与球面坐标关系.jpg",
+    "图/第一章/圆柱坐标下的梯度散度旋度拉普拉斯.jpg",
+    "图/第一章/球面坐标下的梯度散度旋度拉普拉斯_2.jpg",
+    "图/第一章/球面坐标下的梯度散度旋度拉普拉斯_1.jpg",
+    "图/第一章",
+    "图/新建文件夹",
+    "图/球面坐标下的梯度散度旋度拉普拉斯_1.jpg",
+    "图/球面坐标下的梯度散度旋度拉普拉斯_2.jpg",
+    "图/球面坐标下的梯度散度旋度拉普拉斯_.jpg",
+    "图",
+    "新建文件夹"
+  ]
+}
