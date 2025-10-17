@@ -13,10 +13,10 @@
             "state": {
               "type": "mindmapView",
               "state": {
-                "file": "思维导图.md"
+                "file": "mind map.md"
               },
               "icon": "blocks",
-              "title": "思维导图"
+              "title": "mind map"
             }
           }
         ]
@@ -164,7 +164,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "806fe1046fd296f8",
+  "active": "514d170adc2c8b10",
   "lastOpenFiles": [
     "原始/思维导图.md",
     "原始/绪论.md",

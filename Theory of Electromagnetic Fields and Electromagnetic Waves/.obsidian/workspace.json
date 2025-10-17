@@ -13,10 +13,10 @@
             "state": {
               "type": "mindmapView",
               "state": {
-                "file": "思维导图.md"
+                "file": "mind map.md"
               },
               "icon": "blocks",
-              "title": "思维导图"
+              "title": "mind map"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3729b048210958d4",

@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "7e7ec88d234280e4",
+    "id": "95b8adeaba86b67f",
     "type": "split",
     "children": [
       {
-        "id": "b5befd121f40632e",
+        "id": "fa03d946eb1e934d",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc5daeee1b75d93",
+            "id": "3cb126f9216b5d8e",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "mind map.md"
-              },
-              "icon": "blocks",
-              "title": "mind map"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "834a56e57d3614d4",
+    "id": "7093998813adc293",
     "type": "split",
     "children": [
       {
-        "id": "76c61f248e82fb57",
+        "id": "5e84aa269580a6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "5a5390879955fb5f",
+            "id": "c307469f496a6624",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +44,7 @@
             }
           },
           {
-            "id": "a706b6ce581bf076",
+            "id": "eb9fdbebdc959445",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +61,7 @@
             }
           },
           {
-            "id": "c1c77f56636ba221",
+            "id": "0fcbb5631c5941c3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,19 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "8dbd89475da0b10c",
+    "id": "4ccd67b1f20fb9b7",
     "type": "split",
     "children": [
       {
-        "id": "0a28c1dc57975913",
+        "id": "76e8d393498930a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc70c4ac87e6835",
+            "id": "56e9d5c1ac735daa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "思维导图 的反向链接列表"
             }
           },
           {
-            "id": "1c99dc2d86d716a7",
+            "id": "8b75da2c97306b96",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "思维导图 的出链列表"
             }
           },
           {
-            "id": "bd57cfffe381cf0b",
+            "id": "cffa6203337e4100",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +133,18 @@
             }
           },
           {
-            "id": "4779b32cf6cd8b47",
+            "id": "2fb152db408dee4c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "思维导图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "思维导图 的大纲"
             }
           }
         ]
@@ -164,12 +165,6 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "8dc5daeee1b75d93",
-  "lastOpenFiles": [
-    "原始/思维导图.md",
-    "思维导图.md",
-    "原始/第一章.md",
-    "原始",
-    "老师资料/Ch1_课件.pdf"
-  ]
+  "active": "c307469f496a6624",
+  "lastOpenFiles": []
 }
